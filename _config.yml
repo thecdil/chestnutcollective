@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: Chestnut Collective
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Collecting Stories Entangled with the American Chestnut
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "The Chestnut Collective is committed to sharing the underlistened stories of Appalachian plants and people."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: chestnut;history;appalachia;plants;american chestnut
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Nick Koenig
 
 ##########
 # COLLECTION SETTINGS
@@ -50,10 +50,10 @@ metadata: chestnut_metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Nick Koenig"
+organization-link: https://nick-koenig.weebly.com/
+organization-logo-banner: 
+organization-logo-nav: 
 
 ##########
 # GOOGLE SERVICES [optional!]
