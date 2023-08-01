@@ -1,6 +1,6 @@
 ---
 title: passion
-order: 11
+order: 12
 layout: essay
 permalink: /passion.html
 ---

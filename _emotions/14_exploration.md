@@ -1,6 +1,6 @@
 ---
 title: exploration
-order: 12
+order: 14
 layout: essay
 permalink: /exploration.html
 ---
