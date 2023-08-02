@@ -1,8 +1,8 @@
 ---
 title: excitement
-order: 12
+order: 13
 layout: essay
-permalink: /excitment.html
+permalink: /excitement.html
 ---
 
 When thinking of ideas of exploration and the excitement of exploration was expanded on by Sara when she would hiked around her grandfather's property by 
