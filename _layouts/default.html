@@ -1,17 +1,28 @@
 <!doctype html>
 <html lang="en" class="h-100">
-  <head prefix="og: http://ogp.me/ns#">
-    {% include head/head.html %}
-  </head>
-  <body class="d-flex flex-column h-100">
-    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
-    {% include collection-banner.html %}
-    {% include collection-nav.html %}
-    <main id="maincontent" role="main" class="flex-shrink-0">
-      {{ content }}
-    </main>
-    {% include footer.html %}
-    {% include foot.html %}
-    {% include scroll-to-top.html %}
-  </body>
+
+<head prefix="og: http://ogp.me/ns#">
+  {% include head/head.html %}
+</head>
+
+<body class="d-flex flex-column h-100">
+  <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+  <div class="row">
+    <div class="col-md-10">
+      {% include collection-banner.html %}
+      <main id="maincontent" role="main" class="flex-shrink-0">
+        {{ content }}
+      </main>
+    </div>
+    <div class="col-2 d-none d-md-block">
+      {% include feature/default-gallery.html %}
+    </div>
+    <div class="col-12">
+      {% include footer.html %}
+    </div>
+  </div>
+  {% include foot.html %}
+  {% include scroll-to-top.html %}
+</body>
+
 </html>

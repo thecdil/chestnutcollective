@@ -1,5 +1,5 @@
 ---
-title: mountain-culture
+title: mountain culture
 order: 5
 layout: essay
 permalink: /mountain-culture.html

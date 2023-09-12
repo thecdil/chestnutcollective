@@ -1,0 +1,12 @@
+---
+# default "About" page layout
+layout: default
+---
+<div class="container my-4 col-md-6 offest-md-2">
+
+<h2>{{page.title | capitalize }}</h2>
+<p class="ms-3 h4"><em>{{page.byline}}</em></p>
+{{ content }}
+</div>
+
+{% if page.credits == true %}{% include cb/credits.html %}{% endif %}

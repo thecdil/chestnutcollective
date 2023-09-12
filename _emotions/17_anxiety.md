@@ -5,7 +5,7 @@ layout: essay
 permalink: /anxiety.html
 ---
 
-An unexpected emotional political ecology surrounding the current status of the Chestnut remnants was the emotion of anxiety. Sara shared that when she used to go hiking in areas where Chestnut saplings could be living, she "can't go into the woods without looking for Chestnuts." After feeling emotions of anxiety, she even went to the point of 
+An unexpected emotional political ecology surrounding the current status of the Chestnut remnants was the emotion of anxiety. Sara shared that when she used to go hiking in areas where Chestnut saplings could be living, she ["can't go into the woods without looking for Chestnuts."](sara.html) After feeling emotions of anxiety, she even went to the point of 
 "join[ing]ed the caving club...because I could rest there in a sort of outdoor activity, not outdoors, but you know what I mean, like not in a house or a building but because there's no Chestnuts underground." (Sara)
 She has now "made peace with that though" and can not feel this emotion while she hikes or works towards restoring the Chestnut
 "Like I can either be anxious all the time and say that it sucks, or I can just embrace it and deal with it. And you know, that's took some time and some maturity and realising that, especially like, around where I live, there's chestnuts all over the place"
