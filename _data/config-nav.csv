@@ -1,7 +1,27 @@
 display_name,stub,dropdown_parent
 Home,/,
 Archives,browse.html
-Emotions,subjects.html
+Emotions
+intro,/emotions/01_intro,Emotions
+nostalgia,/nostalgia.html,Emotions
+reverence,/reverence.html,Emotions
+majesty,/majesty.html,Emotions
+mountain culture,/mountain-culture.html,Emotions
+frustration,/frustration.html,Emotions
+sadness,/sadness.html,Emotions
+haunting ghosts,/haunting.html,Emotions
+moral-obligation,/moral-obligation.html,Emotions
+love,/love.html,Emotions
+passion,/passion.html,Emotions
+excitement,/excitement.html,Emotions
+exploration,/exploration.html,Emotions
+imagination,/imagination.html,Emotions
+curiosity,/curiosity.html,Emotions
+anxiety,/anxiety.html,Emotions
+care,/care.html,Emotions
+patience,/patience.html,Emotions
+hope,/hope.html,Emotions
+conclusion emotions,/conclusion.html,Emotions
 Narrators,locations.html
 Ecologies,
 Digital Ecologies,ecologies.html,Ecologies

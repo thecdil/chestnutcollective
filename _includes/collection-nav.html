@@ -31,6 +31,14 @@
                 </li>
                 {% endif %}
                 {%- endfor -%}
+                <li class="nav-item dropdown">
+                    <a class="nav-link  dropdown-toggle{% if childStubs contains page.url %} active{% endif %}" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Emotions</a>
+                    <div class="dropdown-menu">
+                        {% for e in site.emotions %}
+                        <a class="dropdown-item {% if page.url == c.stub %}active{% endif %}" href="{{ e.url | relative_url }}">{{ e.title }}</a>
+                        {% endfor %}
+                    </div>
+                </li>
             </ul>
             
         </div>
