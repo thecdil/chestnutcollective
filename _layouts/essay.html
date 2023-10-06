@@ -2,11 +2,35 @@
 # default "About" page layout
 layout: default
 ---
-
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Libre Baskerville' rel='stylesheet'>
+<style>
+h2 {
+    text-indent: -3.4em;
+    font-family: Baskerville;
+}
+div.a {
+  text-indent: 0px;
+}
+div.b {
+  text-indent: 1em;
+}
+div.c {
+  margin-left: 40px;
+}
+p {
+  padding-top: 8px;
+  margin-right: -120px;
+  margin-left: -100px;
+}
+</style>
+</head>
+<body>
 <div class="container my-4 col-md-6 offest-md-2">
 
-<h2>{{page.title | capitalize }}</h2>
-<p class="ms-3 h4"><em>{{page.byline}}</em></p>
+<h2>{{page.title | capitalize}}</h2>
+<p><em>{{page.byline}}</em></p>
 {{ content }}
 </div>
 
