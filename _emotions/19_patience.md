@@ -4,6 +4,11 @@ order: 19
 layout: essay
 permalink: /patience.html
 ---
+<style>
+div.c {
+  border-color: rgb(154, 99, 36)
+}
+</style>
 <div class="a">
 <p>When considering the emotional political ecologies of the restoration process, Sara discussed how:</p>
 

@@ -4,6 +4,11 @@ order: 3
 layout: essay
 permalink: /reverence.html
 ---
+<style>
+div.c {
+  border-color: rgb(230,25,75)
+}
+</style>
 <div class="a">
 <p>Given the timing of the chestnut blight's introduction, rate of spread, and time that has passed since the total devastation in Central Appalachia (Fig. 2), there are no people alive today that are living prior to the blight in the area. Therefore, the past emotions are passed down from generation to generation or inferred from archival materials (as seen above).</p>
 <div class="b">

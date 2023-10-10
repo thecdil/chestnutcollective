@@ -4,6 +4,11 @@ order: 6
 layout: essay
 permalink: /frustration.html
 ---
+<style>
+div.c {
+  border-color: rgb(255, 225, 25)
+}
+</style>
 <div class="a">
 <p>During the early stages of the Blights' introduction and spread throughout the range of the American Chestnut, Ken discussed how the:</p>
 <div class="c">

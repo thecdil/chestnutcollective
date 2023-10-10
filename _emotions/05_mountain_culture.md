@@ -4,6 +4,11 @@ order: 5
 layout: essay
 permalink: /mountain-culture.html
 ---
+<style>
+div.c {
+  border-color: rgb(60, 180, 75)
+}
+</style>
 <div class="c">
 <p>"When that Chestnut died, a part of the mountain culture died with it. And the memories are still there. And so he [Rex's father] felt very passionate about the woods and the wildlife, but especially the Chestnut tree" (Rex)</p></div> 
 <div class="b">
