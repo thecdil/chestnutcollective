@@ -19,13 +19,13 @@ div.c {
 <p>Regarding the Chestnut, Sara expressed how here grandfather was</p> 
 
 <div class="c">
-"really excited and hoping that I would plant [Chestnut] trees up on the farm when we got blight resistant trees. And that's, that's still my intention." (Sara) </p></div> 
+<p>"really excited and hoping that I would plant [Chestnut] trees up on the farm when we got blight resistant trees. And that's, that's still my intention." (Sara) </p></div> 
 
 <div class="b">
 <p>The excitement from her grandfather and the exploration of the land has partially continued her work towards finding and developing a blight resistant Chestnut tree and subsequently planting the trees in honour of her grandfather (overlapping with other emotional ecologies mentioned previously of love). Further, Savannah, through volunteering with the American Chestnut Foundation, has been instilling excitement into other people by</p>
 
 <div class="c">
-<p>"trying to get kids excited to learn about Chestnuts ...that was like my thing" (Savannah).</p></div> 
+<p><a href="items/chestnut050.html#chestnut05026">trying to get kids excited to learn about Chestnuts ...that was like my thing" (Savannah).</a></p></div> 
 
 <div class="b">
 <p>The excitement is rendered political when considered the American Chestnut Foundations' interests in restoring the Chestnut as they require individuals to be excited for the continuation of their mission through securing donations and membership. Excitement was also illustrated when attending a botanical-focused hike in Appalachia and the excitement during the search for saplings</p> 

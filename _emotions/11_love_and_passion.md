@@ -26,7 +26,7 @@ div.c {
 <p>“I’m an arborist anyway, so I've got a passion for trees. I love trees…This is not a job, it’s an adventure, I love it…I love working with Chestnuts.” (Terry)</p></div>
 <div class="b"><p></p>
 <div class="c">
-<p>“The community there … they love the forest, everyone, it's part of the community in Bath County is getting out and going to forest, going hunting, having a good time and enjoying it.” (Savannah)</p></div>
+<p><a href="items/chestnut050.html#chestnut05010">“The community there … they love the forest, everyone, it's part of the community in Bath County is getting out and going to forest, going hunting, having a good time and enjoying it.” (Savannah)</a></p></div>
 <div class="b">
 <p>One of the most abundant emotional political ecologies was this love and passion held at the individual level as well as partially at the community level of living in the forests of Central Appalachia. When the Chestnut died, the entire multispecies assemblage composing the biodiversity of the forests did not all go away as well.</p> 
 <p>However, the love for the forests is what has kept the participants going in the search of a blight resistant tree either through finding a population of remnant trees with natural resistance or a new type of resistance using genetic engineering. However, the emotions involved could, in one way, distract from the biopolitical and racialized undertones of the restoration projects (Biermann, 2014).</p>

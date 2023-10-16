@@ -23,7 +23,7 @@ div.c {
 <div class="b"><p></p>
 
 <div class="c">
-<p>"And the Chestnut it's super, I care about it because like imagine, just imagine like we had these massive trees out here like the Redwoods because I've seen them and like and it was so ecological important, like, one in every three trees previously was American Chestnut like to have that out here, again." (Savannah) </p></div>
+<p><a href="items/chestnut050.html#chestnut05061">And the Chestnut it's super, I care about it because like imagine, just imagine like we had these massive trees out here like the Redwoods because I've seen them and like and it was so ecological important, like, one in every three trees previously was American Chestnut like to have that out here, again." (Savannah) </a></p></div>
 
 <div class="b">
 <p>Both Terry and Savannah imagined both the past Chestnut stands as well as the future of restoring the Chestnut trees. The emotions are rendered political in speculative world-building through imagining worlds that could be created through the restoration of the project and pushing the mission of the American Chestnut Foundation and broader restoration goals.</p> 
