@@ -1,10 +1,189 @@
 <!-- list of colors provided by https://sashat.me/2017/01/11/list-of-20-simple-distinct-colors/ -->
-<style>
+<!--<style>
     {% for n in site.data.filters %}
-  .{{ n.tag | slugify }} { fill: {% cycle '#e6194b','#3cb44b','#ffe119','#4363d8','#f58231','#911eb4','#46f0f0','#f032e6','#bcf60c','#fabebe','#008080','#e6beff','#9a6324','#fffac8','#800000','#aaffc3','#808000','#ffd8b1','#000075','#808080','#ffffff'%};}
+    {% capture color %}{% cycle '#e6194b','#3cb44b','#ffe119','#4363d8','#f58231','#911eb4','#46f0f0','#f032e6','#bcf60c','#fabebe','#008080','#e6beff','#9a6324','#fffac8','#800000','#aaffc3','#808000','#ffd8b1','#000075','#808080','#ffffff'%}{% endcapture %}
+  .{{ n.tag | slugify }} { 
+    fill: {{color}};
+    border-color: {{color}} !important;
+  }
 
-  .{{ n.tag | slugify  }}.primary-{{ n.tag | slugify  }}{ fill: {% cycle '#e6194b !important','#3cb44b !important','#ffe119 !important','#4363d8 !important','#f58231 !important','#911eb4 !important','#46f0f0 !important','#f032e6 !important','#bcf60c !important','#fabebe !important','#008080 !important','#e6beff !important','#9a6324 !important','#fffac8 !important','#800000 !important','#aaffc3 !important','#808000 !important','#ffd8b1 !important','#000075 !important','#808080 !important','#ffffff !important'%};}
+  .{{ n.tag | slugify  }}.primary-{{ n.tag | slugify  }}{ 
+    fill: {{color}} !important;
+  }
   {% endfor %}
+
+ 
+
+    .black {
+      fill: black;
+    }
+
+    .dark {
+      fill: black !important;
+    }
+
+    .primary-hilite {fill: red !important;}
+    
+    tr.black,
+    .hidden {
+      display: none;
+    }
+
+    .chart{cursor: pointer;}
+  </style>-->
+  <!-- list of colors provided by https://sashat.me/2017/01/11/list-of-20-simple-distinct-colors/ -->
+<style>
+    
+    
+  .nostalgia { 
+    fill: #e6194b;
+    border-color: #e6194b !important;
+  }
+
+  .nostalgia.primary-nostalgia{ 
+    fill: #e6194b !important;
+  }
+  
+    
+  .mountain-culture { 
+    fill: #3cb44b;
+    border-color: #3cb44b !important;
+  }
+
+  .mountain-culture.primary-mountain-culture{ 
+    fill: #3cb44b !important;
+  }
+  
+    
+  .frustration { 
+    fill: #ffe119;
+    border-color: #ffe119 !important;
+  }
+
+  .frustration.primary-frustration{ 
+    fill: #ffe119 !important;
+  }
+  
+    
+  .sadness { 
+    fill: #4363d8;
+    border-color: #4363d8 !important;
+  }
+
+  .sadness.primary-sadness{ 
+    fill: #4363d8 !important;
+  }
+  
+    
+  .haunting { 
+    fill: #f58231;
+    border-color: #f58231 !important;
+  }
+
+  .haunting.primary-haunting{ 
+    fill: #f58231 !important;
+  }
+  
+    
+  .moral-obligation { 
+    fill: #911eb4;
+    border-color: #911eb4 !important;
+  }
+
+  .moral-obligation.primary-moral-obligation{ 
+    fill: #911eb4 !important;
+  }
+  
+    
+  .love-and-passion { 
+    fill: #46f0f0;
+    border-color: #46f0f0 !important;
+  }
+
+  .love-and-passion.primary-love-and-passion{ 
+    fill: #46f0f0 !important;
+  }
+  
+    
+  .exploration { 
+    fill: #f032e6;
+    border-color: #f032e6 !important;
+  }
+
+  .exploration.primary-exploration{ 
+    fill: #f032e6 !important;
+  }
+  
+    
+  .imagination { 
+    fill: #bcf60c;
+    border-color: #bcf60c !important;
+  }
+
+  .imagination.primary-imagination{ 
+    fill: #bcf60c !important;
+  }
+  
+    
+  .anxiety { 
+    fill: #fabebe;
+    border-color: #fabebe !important;
+  }
+
+  .anxiety.primary-anxiety{ 
+    fill: #fabebe !important;
+  }
+  
+    
+  .care { 
+    fill: #008080;
+    border-color: #008080 !important;
+  }
+
+  .care.primary-care{ 
+    fill: #008080 !important;
+  }
+  
+    
+  .magicalness { 
+    fill: #e6beff;
+    border-color: #e6beff !important;
+  }
+
+  .magicalness.primary-magicalness{ 
+    fill: #e6beff !important;
+  }
+  
+    
+  .patience { 
+    fill: #9a6324;
+    border-color: #9a6324 !important;
+  }
+
+  .patience.primary-patience{ 
+    fill: #9a6324 !important;
+  }
+  
+    
+  .hope { 
+    fill: #fffac8;
+    border-color: #fffac8 !important;
+  }
+
+  .hope.primary-hope{ 
+    fill: #fffac8 !important;
+  }
+  
+    
+  .prosperity { 
+    fill: #800000;
+    border-color: #800000 !important;
+  }
+
+  .prosperity.primary-prosperity{ 
+    fill: #800000 !important;
+  }
+  
 
  
 
