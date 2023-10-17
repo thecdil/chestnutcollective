@@ -2,34 +2,33 @@
 # default "About" page layout
 layout: default
 ---
-<html>
-<head>
-<link href='https://fonts.googleapis.com/css?family=Libre Baskerville' rel='stylesheet'>
+{% include transcript/style/filter-style.html %}
+
 <style>
-h2 {
-    text-indent: 0em;
-    font-family: Baskerville;
-}
-div.a {
-  text-indent: 0px;
-}
-div.b {
-  text-indent: 1em;
-}
-div.c {
-  margin-left: 20px;
-  border-left: 20px solid black;
-  border-radius: 25px;
-  padding-left: 4px;
-}
+
 p {
   padding-top: 4px;
   margin-right: 10px;
   margin-left: 10px;
+  text-indent: 1em;
+}
+h2 {
+    text-indent: 0em;
+    font-family: Georgia;
+}
+.a {
+  text-indent: 0px !important;
+}
+
+.c {
+  margin-left: 20px;
+  border-left: 10px solid black;
+  border-radius: 25px;
+  padding-left: 26px;
+  text-indent: 0px !important;
 }
 </style>
-</head>
-<body>
+
 <div class="container my-4 col-md-6 offest-md-2">
 
 <h2>{{page.title | capitalize}}</h2>
@@ -37,7 +36,4 @@ p {
 {{ content }}
 </div>
 
-{}
 
-
-{% if page.credits == true %}{% include cb/credits.html %}{% endif %}
