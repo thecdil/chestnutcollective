@@ -34,7 +34,7 @@ click text to visit interview
 “I’m an arborist anyway, so I've got a passion for trees. I love trees…This is not a job, it’s an adventure, I love it…I love working with Chestnuts.” 
 
 {:.credit}
-Terry, Wednesday June 28, 2023
+Terry, Wednesday June 28, 2023  
 click text to visit interview
 
 {:.quote .love-and-passion}
