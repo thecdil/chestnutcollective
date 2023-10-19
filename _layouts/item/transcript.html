@@ -35,12 +35,7 @@ endcapture -%}
 <div id="object-meta">
   <div class="my-2 row">
     <div class="col">
-      <h2 class="title">{{ page.title}} {% if page.bio %}<a type="button" class="btn btn-sm btn-outline-dark meta ms-3"
-          data-bs-toggle="modal" data-bs-target="#bio-modal">Click for bio</a>{% endif %}</h2>
       {% if page.bio %}{% include transcript/item/bio-modal.html %}{% endif %}
-      <p class="meta">{%if page.description%}<span class="me-3"><b>Description:</b>  {{page.description}}</span>{%endif%}{%if
-        page.date%}<br><b>Date:</b> {{page.date | date: "%B %d, %Y" }}{%endif%}
-        {%if page.interviewer %} <br><b>Interviewer:</b> {{page.interviewer}}{%endif%}</p>
       {% include transcript/item/download-buttons.html %}
       {% include transcript/item/metadata-modal.html %}
 
