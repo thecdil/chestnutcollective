@@ -8,8 +8,7 @@ permalink: /imagination.html
 "So got my curiosity up, I started talking to the old timers 'round town...I remember carrying leaves home from that Chestnut, those Chestnut sprouts and showing them to those old timers, that they're still Chestnuts alive in the forest, even though they're kind of small and scrubby...they knew exactly what it was and wondering where I found it." 
 
 {:.credit}
-Ken,  
-click text to visit interview
+Ken
 
 Many of the interviewees had a glowing smile when talking about the imaginative powers and curiosity they had when talking about the past massive Chestnuts or grey ghosts, current remnant saplings, or the future restored forests. The spectral qualities of the emotions involving imagination and curiosity is also very interesting when considering the time during the Chestnut tale they are discussing.
 
@@ -20,7 +19,6 @@ While the idea of curiosity might not initially seem political, but curiosity ex
 
 {:.credit}
 Terry, Wednesday June 28, 2023  
-click text to visit interview
 
 {:.quote .imagination}
 [And the Chestnut it's super, I care about it because like imagine, just imagine like we had these massive trees out here like the Redwoods because I've seen them and like and it was so ecological important, like, one in every three trees previously was American Chestnut like to have that out here, again."]({{'items/chestnut050.html#chestnut05061' | relative_url}}) 

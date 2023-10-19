@@ -8,7 +8,7 @@ permalink: /patience.html
 When considering the emotional political ecologies of the restoration process, Sara discussed how:
 
 {:.quote .patience}
-"tree breeding has made me much more patient because it just requires time requires time to grow trees to make trees it takes them a long time to flower and I mean there are techniques to reduce the amount of time for all of those things but it's still a lot easier or a lot harder to work with and say Arabidopsis or Tomatoes or Corn, you know, and so tree breeding in general has taught me a lot of patience." 
+["tree breeding has made me much more patient because it just requires time requires time to grow trees to make trees it takes them a long time to flower and I mean there are techniques to reduce the amount of time for all of those things but it's still a lot easier or a lot harder to work with and say Arabidopsis or Tomatoes or Corn, you know, and so tree breeding in general has taught me a lot of patience."]({{'/items/chestnut051.html#chestnut05140' | relative_url}})   
 
 {:.credit}
 Sara,  

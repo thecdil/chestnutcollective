@@ -11,7 +11,7 @@ When regarding the missions in restoring the Chestnut tree, there were sentiment
 [Hopeful honestly, because it's really hopeful, because seeing all these people work together so hard on, just for, just this one tree, this one species of tree."]({{'items/chestnut050.html#chestnut05058' | relative_url}}) 
 
 {:.credit}
-Savannah,
+Savannah,  
 click text to visit interview
 
 Sara had a slightly different type of hope and it was placed in the specific plans of the American Chestnut Foundation's plans for developing a specific Blight-resistant Chestnut tree. She has a "strong, strong hope that will be even better than the transgenic on its own or the backcross trees on its own" (Sara).

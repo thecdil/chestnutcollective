@@ -8,16 +8,15 @@ permalink: /excitement.html
 When thinking of ideas of exploration and the excitement of exploration was expanded on by Sara when she would hiked around her grandfather's property by
 
 {:.quote .exploration}
-"go[ing] back there, climb the trees, and just kind of explore around and see what we could find. And it was just so, like, great to be in the forest and like getting away from everything." 
+"go[ing] back there, climb the trees, and just kind of explore around and see what we could find. And it was just so, like, great to be in the forest and like getting away from everything."
 
 {:.credit}
-Sara,  
-click text to visit interview
+Sara   
 
 Regarding the Chestnut, Sara expressed how here grandfather was
 
 {:.quote .exploration}
-"really excited and hoping that I would plant [Chestnut] trees up on the farm when we got blight resistant trees. And that's, that's still my intention." 
+["really excited and hoping that I would plant [Chestnut] trees up on the farm when we got blight resistant trees. And that's, that's still my intention."]({{'/items/chestnut051.html#chestnut05115' | relative_url}}) 
 
 {:.credit}
 Sara,  

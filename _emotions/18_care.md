@@ -16,7 +16,7 @@ Then the nut was placed very deliberately in a certain orientation for the best 
 Sara also discussed a type of care for the Chestnut through her work with the species by saying:
 
 {:.quote .care}
-"I mean, of course, I care about the ecology and the tree itself...There's something very charismatic about it, and I can't explain it other than like, it's a beautiful leaf, like it's very aesthetically pleasing, it grows really fast. It's a fighter, you know, just for this thing to hang on for so long after so many insults. And for it to keep going. It just, it wants to be rescued." 
+["I mean, of course, I care about the ecology and the tree itself...There's something very charismatic about it, and I can't explain it other than like, it's a beautiful leaf, like it's very aesthetically pleasing, it grows really fast. It's a fighter, you know, just for this thing to hang on for so long after so many insults. And for it to keep going. It just, it wants to be rescued."]({{'/items/chestnut051.html#chestnut05134' | relative_url}})  
 
 {:.credit}
 Sara,  
@@ -28,7 +28,6 @@ Another type of care was expressed by Rex on a larger scale when discussing the 
 "From the earliest days there's been this concept of stewardship, of taking care of the world we live in so that these grand kids that come along will inherit at least a good of world as we did" 
 
 {:.credit}
-Rex, Wednesday June 28, 2023  
-click text to visit interview
+Rex, Wednesday June 28, 2023 
 
 I do not believe care is an outright emotional political ecology as seen with anxiety or hope, however, 'care' becomes an emotional political ecology when looking towards the reasons for having and expressing care. The reasons for caring varied from religious beliefs, forest ecology, restored historical relationships and sense of communities. These develop into different ethics of care held differently between individuals within the region further complicating how humans care for plant species experiencing extinction.

@@ -14,7 +14,6 @@ Therefore, the trees were left standing for years after to slowly be consumed ba
 
 {:.credit .haunting} 
 Rex, Wednesday June 28, 2023  
-click text to visit interview
 
 The emotions evoked by Appalachians when discussing the grey ghosts is made up of a suite of feelings regarding the standing trees. Interestingly, the grey ghosts also serve as physical pieces of the emotional political ecology of the salvage economics (Tsing, 2015) and communications that was advertised during the height of the Blight's spread. Land-owners were encouraged by the government and forest service to harvest all the Chestnuts that stood in the Blight's path as there were no known ways to combat the fungal infection. 
 
@@ -25,14 +24,12 @@ Additionally, in the early stages of the Blight's infection, the Chestnut wood i
 
 {:.credit} 
 Rex, Wednesday June 28, 2023    
-click text to visit interview
 
 {:.quote .haunting} 
 "And I just remembered as a kid, there was just this long run of dead trees. They were gray and straight up because of course it was forest. So it was straight up so trees are gonna grow up to compete tall and straight. Compared to like now you see bushy trees and orchard that kind of thing. These were competing trees...But there were still big trees at that point, dead trees kind of crumbling and falling apart. Just kind of scattered here and there...I remember as a kid that were still the full size. I mean, they still had the full branches. The tips of the branches leaves of course, were long gone. The bark was long gone. But as you remember, it took years for those trees just to slowly fall apart." 
 
 {:.credit} 
 Ken   
-click text to visit interview
 
 Many theorists and researchers delve into ideas of hauntology and ghostly existence in the world and the Anthropocene (Searle 2021). There was a large amount of data and materials in both the archives and interviews regarding ghostly existences and these accounts could provide for the introduction of plant hauntologies and botanical ghosts to the spectral ecologies which are dominated by animal geographies currently (McCorristine and Adams, 2019; Barlow, 2000). From the ghostly imaginaries and ways of existing, we can gleam new insights into the ethics of violence from the Chestnut as well.
 

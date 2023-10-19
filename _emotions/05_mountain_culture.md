@@ -8,8 +8,7 @@ permalink: /mountain-culture.html
 "When that Chestnut died, a part of the mountain culture died with it. And the memories are still there. And so he [Rex's father] felt very passionate about the woods and the wildlife, but especially the Chestnut tree" 
 
 {:.credit} 
-Rex, Wednesday June 28, 2023\
-click text to visit interview
+Rex, Wednesday June 28, 2023
 
 When reflecting upon the mountain culture and the Chestnut's role in this culture, Rex vividly summed up the historical relationships that were changed when the Chestnuts died.
 However, he pointedly showed how the mountain culture did not disappear immediately, rather carried with the people of Appalachia. When looking at the ways of life surrounding mountain culture, Savannah believed:

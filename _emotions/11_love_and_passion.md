@@ -14,17 +14,15 @@ Similarly to the emotional political ecology of excitement, having a love and pa
 
 {:.credit}
 Rex, Wednesday June 28, 2023  
-click text to visit interview
 
 {:.quote .love-and-passion}
 “And so at that time, in all the major cities of America, there was a love of the American Chestnut and they were roasted on the streets.” 
 
 {:.credit}
 Rex, Wednesday June 28, 2023  
-click text to visit interview
 
 {:.quote .love-and-passion}
-“He loved the work that I was doing. His, my work only overlapped about two years with him before he died.” 
+[“He loved the work that I was doing. His, my work only overlapped about two years with him before he died.”]({{'/items/chestnut051.html#chestnut05115' | relative_url}}) 
 
 {:.credit}
 Sara,   
@@ -35,7 +33,6 @@ click text to visit interview
 
 {:.credit}
 Terry, Wednesday June 28, 2023  
-click text to visit interview
 
 {:.quote .love-and-passion}
 [“The community there … they love the forest, everyone, it's part of the community in Bath County is getting out and going to forest, going hunting, having a good time and enjoying it.”]({{'items/chestnut050.html#chestnut05010' | relative_url}}) 

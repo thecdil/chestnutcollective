@@ -13,6 +13,5 @@ Rex expanded on this by saying:
 
 {:.credit} 
 Rex, Wednesday June 28, 2023  
-click text to visit interview
 
 Developing a moral code for Rex is rooted partially in religious and cosmological beliefs which was also shared by his father who was a Baptist preacher and witnessed the Blight's effect from the beginning. The justification for what is the 'right thing to do' in regard to the Chestnut restoration is very contingent on the individual's beliefs and ethical outlook in life. But the role humans have in the trajectory of the American Chestnut is a highly political debate ongoing and will continue as long as there are people who believe in the restoration of the species (Srinivasan and Kasturirangan, 2016).

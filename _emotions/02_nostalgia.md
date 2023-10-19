@@ -13,13 +13,12 @@ The term 'majesty' and 'reverence' were used often when people of Appalachia ref
 "They spoke with a reverence. I can see it, I just can't even really quite describe just the way they said the word 'that's Chestnut'...They would always say it was just all the old timers used the same phrase, 'that's Chestnut'...Not until way later did I really understand why they would use such a reverent comment phrase 'that's Chestnut'... They never missed that chance to say it anytime we saw a dead chestnut tree." 
 
 {:.credit}
-Ken,\
-click text to visit interview
+Ken
 
-Ken also explained these stories of nostalgia with reverence. There was an honour in the way the stories of the Human-Chestnut relationality were passed down as well. These emotions are rendered political in the comparative ecologies of how capitalist structures exploit natural resources (such as forest ecosystems), but in the region of Central Appalachia, the ways of living once were and continue to revere multispecies assemblages by the way people talk about a world that once was. Another thread of the honour involved in Human-Chestnut relations was expressed by Sara when she discussed her:</p> 
+Ken also explained these stories of nostalgia with reverence. There was an honour in the way the stories of the Human-Chestnut relationality were passed down as well. These emotions are rendered political in the comparative ecologies of how capitalist structures exploit natural resources (such as forest ecosystems), but in the region of Central Appalachia, the ways of living once were and continue to revere multispecies assemblages by the way people talk about a world that once was. Another thread of the honour involved in Human-Chestnut relations was expressed by Sara when she discussed her: 
 
 {:.quote .nostalgia}
-"Uncle Charlie [who] still has that farm and we go up there regularly. So at some point in the near future, I want to plant a nice little grove up there in his honour and for the family." 
+["Uncle Charlie [who] still has that farm and we go up there regularly. So at some point in the near future, I want to plant a nice little grove up there in his honour and for the family."]({{'/items/chestnut051.html#chestnut05115' | relative_url}}) 
 
 {:.credit}
 Sara,\

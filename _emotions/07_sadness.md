@@ -9,7 +9,6 @@ permalink: /sadness.html
 
 {:.credit} 
 Rex, Wednesday June 28, 2023  
-click text to visit interview
 
 Interestingly, the Chestnut Blight hit regions of Appalachia at different times in American history which changed the level of impact. In regions of Central Appalachia, often termed 'deep' Appalachia (Sara), the Blight hit during recovery from the Great Depression which added yet another struggle of living through a difficult time. This can be best illustrated from the passed down narratives from Rex:
 
@@ -18,12 +17,11 @@ Interestingly, the Chestnut Blight hit regions of Appalachia at different times 
 
 {:.credit} 
 Rex, Wednesday June 28, 2023  
-click text to visit interview
 
 Rex mentioned this shortly after discussing how his father carried a type of sadness surrounding the Chestnut tree. These are ways of life that are decreasing in great quantity and ending types of emotional and physical engagements with land and life in Appalachia. Outside of the regions of Central Appalachia, there were political ecologies occurring where the Chestnut blight enabled prosperity for harvesting the wood. Due to the unstoppable behavior of the Chestnut Blight, agencies informed land owners to harvest the Chestnut trees before the Blight killed them.
 
 {:.quote .sadness} 
-"Indiana is the only place where I've heard where, because the Chestnut was dying, people were able to subsist economically... because they were able to sell the wood," 
+["Indiana is the only place where I've heard where, because the Chestnut was dying, people were able to subsist economically... because they were able to sell the wood,"]({{'/items/chestnut051.#chestnut05130' | relative_url}})
 
 {:.credit} 
 Sara,   
