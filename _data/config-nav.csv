@@ -1,6 +1,5 @@
 display_name,stub,dropdown_parent
 Home,/,
-Archives,browse.html
 Emotions
 intro,/emotions/01_intro,Emotions
 nostalgia reverence & majesty,/nostalgia.html,Emotions
@@ -17,11 +16,8 @@ care,/care.html,Emotions
 patience,/patience.html,Emotions
 hope,/hope.html,Emotions
 conclusion emotions,/conclusion.html,Emotions
-Narrators,locations.html
-Ecologies,
-Digital Ecologies,ecologies.html,Ecologies
-Deep Map,map.html,Ecologies
+Narrators,/viz.html
 About,
+Archives,/browse.html,About
 About the Collection,/about.html,About
 History,/history.html,About
-Viz,/viz.html
