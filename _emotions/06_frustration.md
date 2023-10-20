@@ -5,7 +5,7 @@ layout: essay
 permalink: /frustration.html
 ---
 {:.firstp} 
-During the early stages of the Blights' introduction and spread throughout the range of the American Chestnut, Ken discussed how the:</p>
+During the early stages of the Blights' introduction and spread throughout the range of the American Chestnut, Ken discussed how the:
 
 {:.quote .frustration}
 "American Chestnuts had zero defense against the Blight, and never needed to because American Chestnuts evolved in North America where that Blight didn't exist until it came over on a ship and somebody, zoom [making hand gestures], shot it across multiple oceans." 
@@ -21,4 +21,4 @@ Ken further explained the emotions from the introduction that many Appalachians 
 {:.credit} 
 Ken
 
-The idea of frustration plays into the emotional political ecology of human control of nature which has been greatly discussed by various researchers in the field of political ecology and economy but sometimes lacks the contributions of emotional geographical research as the human-chestnut ecologies could contribute (Weber, 2019; Haff, 2014).</p>
+The idea of frustration plays into the emotional political ecology of human control of nature which has been greatly discussed by various researchers in the field of political ecology and economy but sometimes lacks the contributions of emotional geographical research as the human-chestnut ecologies could contribute (Weber, 2019; Haff, 2014).
