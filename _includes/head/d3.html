@@ -1,10 +1,3 @@
-<!-- python -m SimpleHTTPServer 8080 //-->
-<!-- TODO: Convert reusable chart approach. //-->
-
-<!DOCTYPE html>
-<head>
-<meta charset="utf-8">
-<title>CS 360 Data Visualization</title>
 
 <!-- JavaScript Libraries //-->
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -61,7 +54,7 @@ function addTooltip(circle) {
 // Draws an arc diagram for the provided undirected graph
 function arcDiagram(graph) {
     // create svg image
-    var svg  = d3.select("body")
+    var svg  = d3.select("#tree")
         .append("svg")
         .attr("id", "arc")
         .attr("width", width)
@@ -175,11 +168,3 @@ function drawLinks(links) {
         });
 }
 </script>
-</head>
-
-<body>
-<script>
-d3.json("miserables.json", arcDiagram);
-</script>
-</body>
-</html>
