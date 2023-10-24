@@ -14,8 +14,17 @@
         {{ content }}
       </main>
     </div>
-    <div class="col-2 d-none d-md-block">
+    <style>
+    .leaf{
+      background: url({{ '/objects/castanea_dentata_B.jpeg' | relative_url }});
+      background-size: contain;
+  }
+</style>
+    <div class="col-2 d-none d-md-block {% if page.layout == "home-infographic" %}leaf{% endif %}" >
+      
+      {% unless page.layout == "home-infographic" %}
       {% include feature/default-gallery.html %}
+      {% endunless %}
     </div>
     <div class="col-12">
       {% include footer.html %}
