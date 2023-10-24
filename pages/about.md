@@ -10,7 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="chestnut010" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}b
 
 ## About the Chestnut Collection
 
