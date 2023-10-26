@@ -14,9 +14,6 @@
   <a xlink:href="emotions/01_intro.html">
     <rect class="cls-1" x="73.96" y="9.61" width="55.17" height="12.91"/>
   </a>
-  <a xlink:href="viz.html">
-    <rect class="cls-1" x="246.13" y="41.3" width="54.78" height="12.52"/>
-  </a>
   <a xlink:href="anxiety.html">
     <rect class="cls-1" x="32.04" y="31.26" width="43.83" height="11.74"/>
   </a>
@@ -55,6 +52,9 @@
   </a>
   <a xlink:href="sadness.html">
     <rect class="cls-1" x="32.04" y="244.52" width="43.83" height="12.52"/>
+  </a>
+  <a xlink:href="viz.html">
+    <rect class="cls-1" x="246.13" y="41.3" width="54.78" height="12.52"/>
   </a>
   <a xlink:href="items/chestnut051.html">
     <rect class="cls-1" x="296.57" y="138.09" width="33.26" height="37.57"/>
