@@ -7,7 +7,7 @@ permalink: /hope.html
 {:.firstp}
 When regarding the missions in restoring the Chestnut tree, there were sentiments held by both Sara and Savannah when discussing the future of the Chestnut in Appalachia. When Savannah was asked what feeling the Chestnut gives her, she responded by saying:
 
-{:.quote .hope}
+{:.link .hope}
 [Hopeful honestly, because it's really hopeful, because seeing all these people work together so hard on, just for, just this one tree, this one species of tree."]({{'items/chestnut050.html#chestnut05058' | relative_url}}) 
 
 {:.credit}

@@ -17,7 +17,7 @@ Ken
 
 Ken also explained these stories of nostalgia with reverence. There was an honour in the way the stories of the Human-Chestnut relationality were passed down as well. These emotions are rendered political in the comparative ecologies of how capitalist structures exploit natural resources (such as forest ecosystems), but in the region of Central Appalachia, the ways of living once were and continue to revere multispecies assemblages by the way people talk about a world that once was. Another thread of the honour involved in Human-Chestnut relations was expressed by Sara when she discussed her: 
 
-{:.quote .nostalgia}
+{:.link .nostalgia}
 ["Uncle Charlie [who] still has that farm and we go up there regularly. So at some point in the near future, I want to plant a nice little grove up there in his honour and for the family."]({{'/items/chestnut051.html#chestnut05115' | relative_url}}) 
 
 {:.credit}

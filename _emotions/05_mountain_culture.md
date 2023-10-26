@@ -13,7 +13,7 @@ Rex, Wednesday June 28, 2023
 When reflecting upon the mountain culture and the Chestnut's role in this culture, Rex vividly summed up the historical relationships that were changed when the Chestnuts died.
 However, he pointedly showed how the mountain culture did not disappear immediately, rather carried with the people of Appalachia. When looking at the ways of life surrounding mountain culture, Savannah believed:
 
-{:.quote .mountain-culture} 
+{:.link .mountain-culture} 
 ["We could have like the wood and bring back that culture that went around the American Chestnut, if we brought the Chestnuts back. Because, I mean, Chestnut hunting, and then the Chestnut logging, like, it was all such a huge important part of the community and the culture of Appalachia...it would be good for the collective and like bringing everyone together and bringing back some of that tradition because I feel like Appalachia has a lost a lot of that."]({{'/items/chestnut050.html#chestnut05031' | relative_url}})
 
 {:.credit} 

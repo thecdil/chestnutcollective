@@ -15,7 +15,7 @@ Sara
 
 Regarding the Chestnut, Sara expressed how here grandfather was
 
-{:.quote .exploration}
+{:.link .exploration}
 ["really excited and hoping that I would plant [Chestnut] trees up on the farm when we got blight resistant trees. And that's, that's still my intention."]({{'/items/chestnut051.html#chestnut05115' | relative_url}}) 
 
 {:.credit}
@@ -24,7 +24,7 @@ click text to visit interview
 
 The excitement from her grandfather and the exploration of the land has partially continued her work towards finding and developing a blight resistant Chestnut tree and subsequently planting the trees in honour of her grandfather (overlapping with other emotional ecologies mentioned previously of love). Further, Savannah, through volunteering with the American Chestnut Foundation, has been instilling excitement into other people by
 
-{:.quote .exploration}
+{:.link .exploration}
 ["trying to get kids excited to learn about Chestnuts ...that was like my thing"]({{'items/chestnut050.html#chestnut05026' | relative_url}})
 
 {:.credit}

@@ -20,7 +20,7 @@ While the idea of curiosity might not initially seem political, but curiosity ex
 {:.credit}
 Terry, Wednesday June 28, 2023  
 
-{:.quote .imagination}
+{:.link .imagination}
 [And the Chestnut it's super, I care about it because like imagine, just imagine like we had these massive trees out here like the Redwoods because I've seen them and like and it was so ecological important, like, one in every three trees previously was American Chestnut like to have that out here, again."]({{'items/chestnut050.html#chestnut05061' | relative_url}}) 
 
 {:.credit}

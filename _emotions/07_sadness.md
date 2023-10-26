@@ -20,7 +20,7 @@ Rex, Wednesday June 28, 2023
 
 Rex mentioned this shortly after discussing how his father carried a type of sadness surrounding the Chestnut tree. These are ways of life that are decreasing in great quantity and ending types of emotional and physical engagements with land and life in Appalachia. Outside of the regions of Central Appalachia, there were political ecologies occurring where the Chestnut blight enabled prosperity for harvesting the wood. Due to the unstoppable behavior of the Chestnut Blight, agencies informed land owners to harvest the Chestnut trees before the Blight killed them.
 
-{:.quote .sadness} 
+{:.link .sadness} 
 ["Indiana is the only place where I've heard where, because the Chestnut was dying, people were able to subsist economically... because they were able to sell the wood,"]({{'/items/chestnut051.#chestnut05130' | relative_url}})
 
 {:.credit} 

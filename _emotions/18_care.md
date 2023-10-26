@@ -15,7 +15,7 @@ Then the nut was placed very deliberately in a certain orientation for the best 
 
 Sara also discussed a type of care for the Chestnut through her work with the species by saying:
 
-{:.quote .care}
+{:.link .care}
 ["I mean, of course, I care about the ecology and the tree itself...There's something very charismatic about it, and I can't explain it other than like, it's a beautiful leaf, like it's very aesthetically pleasing, it grows really fast. It's a fighter, you know, just for this thing to hang on for so long after so many insults. And for it to keep going. It just, it wants to be rescued."]({{'/items/chestnut051.html#chestnut05134' | relative_url}})  
 
 {:.credit}

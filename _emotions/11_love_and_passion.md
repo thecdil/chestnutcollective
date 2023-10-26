@@ -21,7 +21,7 @@ Rex, Wednesday June 28, 2023
 {:.credit}
 Rex, Wednesday June 28, 2023  
 
-{:.quote .love-and-passion}
+{:.link .love-and-passion}
 [“He loved the work that I was doing. His, my work only overlapped about two years with him before he died.”]({{'/items/chestnut051.html#chestnut05115' | relative_url}}) 
 
 {:.credit}
@@ -34,7 +34,7 @@ click text to visit interview
 {:.credit}
 Terry, Wednesday June 28, 2023  
 
-{:.quote .love-and-passion}
+{:.link .love-and-passion}
 [“The community there … they love the forest, everyone, it's part of the community in Bath County is getting out and going to forest, going hunting, having a good time and enjoying it.”]({{'items/chestnut050.html#chestnut05010' | relative_url}}) 
 
 {:.credit}
