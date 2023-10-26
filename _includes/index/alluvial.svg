@@ -56,4 +56,10 @@
   <a xlink:href="items/chestnut050.html">
     <rect class="cls-1" x="296.57" y="183.87" width="46.17" height="21.91"/>
   </a>
+  <a xlink:href="emotions/01_intro.html">
+    <rect class="cls-1" x="73.96" y="9.61" width="55.17" height="12.91"/>
+  </a>
+  <a xlink:href="viz.html">
+    <rect class="cls-1" x="246.13" y="41.3" width="54.78" height="12.52"/>
+  </a>
 </svg>
